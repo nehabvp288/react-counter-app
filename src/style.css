@@ -99,6 +99,11 @@ body, html {
 .container.light .btn:hover {
   background-color: #bbb;
 }
+.container.dark .theme-toggle {
+  color: #fff;
+  border-color: #fff;
+}
+
 
 .reset {
   background-color: crimson;
