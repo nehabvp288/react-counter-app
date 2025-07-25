@@ -33,12 +33,14 @@ This is a simple but slightly enhanced React Counter App I built while practicin
 - Vanilla CSS (no external libraries)  
 
 ---
+## 🖼️ Screenshots
 
-## 🖼️ Screenshot
+![Light Mode](./public/image.png)  
+*Light Mode*
 
-![Screenshot](./public/screenshot.png)
+![Dark Mode](./public/image2.png)  
+*Dark Mode*
 
-Make sure you've placed your screenshot in the `public/` folder and named it `screenshot.png`.
 
 ---
 
@@ -68,7 +70,7 @@ Then, open your browser and go to:
 ## 🎯 Why This Project?
 
 I'm planning to keep a folder where I’ll continue adding small, beginner-friendly React projects like this one.  
-The idea is to help others (and myself!) get comfortable with React basics through simple hands-on examples.
+The idea is to help others get comfortable with React basics through simple hands-on examples.
 
 So stay tuned — more projects coming soon! 😊
 
