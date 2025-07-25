@@ -1,12 +1,85 @@
-# React + Vite
+# 🧮 React Counter App (With Dark Mode & Reset)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Hi everyone! 👋  
+This is a simple but slightly enhanced React Counter App I built while practicing React basics. It’s perfect for beginners who want to gain hands-on experience with hooks like `useState` and experiment with styling and adding small features.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 💡 What's Included
 
-## Expanding the ESLint configuration
+✅ Increase & decrease the count  
+🔁 Reset the counter to `0`  
+🌗 Light/Dark theme toggle  
+🔢 Count number with animation effect  
+💻 Clean and responsive layout  
+🎨 Buttons with hover and transition effects  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📚 What I Learned
+
+- Using `useState` in React  
+- Handling button click events  
+- Conditional styling (themes)  
+- Adding CSS animations and transitions  
+- Writing clean and beginner-friendly React components  
+
+---
+
+## 🛠️ Tech Used
+
+- React.js (with Hooks)  
+- Vite (for fast setup)  
+- Vanilla CSS (no external libraries)  
+
+---
+
+## 🖼️ Screenshot
+
+![Screenshot](./public/screenshot.png)
+
+Make sure you've placed your screenshot in the `public/` folder and named it `screenshot.png`.
+
+---
+
+## 🚀 How to Run Locally
+
+If you want to run this project locally on your system, follow these steps:
+
+```bash
+# 1. Clone the repository
+git clone https://github.com/nehabvp288/react-counter-app.git
+
+# 2. Move into the project directory
+cd react-counter-app
+
+# 3. Install all dependencies
+npm install
+
+# 4. Start the development server
+npm run dev
+```
+
+Then, open your browser and go to:  
+👉 `http://localhost:5173`
+
+---
+
+## 🎯 Why This Project?
+
+I'm planning to keep a folder where I’ll continue adding small, beginner-friendly React projects like this one.  
+The idea is to help others (and myself!) get comfortable with React basics through simple hands-on examples.
+
+So stay tuned — more projects coming soon! 😊
+
+---
+
+## 📬 Connect With Me
+
+**Neha Joshi**  
+Frontend Developer | React | UI/UX  
+📍 Bangalore, India  
+📧 nehabvp28@gmail.com  
+
+🔗 [LinkedIn](https://www.linkedin.com/in/neha-joshi-722b29257/)  
+🔗 [GitHub](https://github.com/nehabvp288)
